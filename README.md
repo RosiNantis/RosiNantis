@@ -1,8 +1,8 @@
 ![Header](https://static.vecteezy.com/system/resources/previews/002/928/565/large_2x/close-up-businessman-using-his-mobile-phone-or-tablet-outdoor-isolated-on-white-background-free-photo.jpg "Header")
 
-## Hi friends, 👋 I am Alexandros. 
+# Hi friends, 👋 I am Alexandros. 
 
-### I am from Greece, based in Berlin. I am a Data Scientist with a Ph.D. in Physics. I am passionate with coding. My wish is to contribute to the transition towards a more sustainable and green future using my scientific expertise and AI as a tool towards this direction.
+### I am from [Greece](https://www.greecehighdefinition.com/blog/2019/2/5/oldest-olive-tree-in-the-world-located-in-crete-its-age-is-estimated-over-3000-years-old), based in Berlin. I am a Data Scientist with a Ph.D. in Physics. I am passionate with coding. My wish is to contribute to the transition towards a more sustainable and green future using my scientific expertise and AI as a tool towards this direction.
 
 ### For more informations about me check out my [LinkedIn](www.linkedin.com/in/alexandros-samartzis) page.
 
@@ -21,11 +21,6 @@
 ![](https://img.shields.io/badge/Tools-SciPy-informational?style=flat&logo=SciPy&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Flask-informational?style=flat&logo=Flask&logoColor=white&color=2bbc8a)
 
-
-
-## &#x270d; Blog & Writing
-
-Technical skills include Python, Matlab, Mathematica programming for simulations, analytics, and visualization (also: Bash, Git, SQL); Data Analytics with Matplotlib, Seaborn; Basic experience using Docker and AWS Cloud. I am actively searching for a new challenge anywhere in Germany with preference to Berlin.
 
 
 - 🔭 I’m currently working on 
