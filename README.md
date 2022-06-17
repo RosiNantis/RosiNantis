@@ -1,4 +1,4 @@
-[![Header](https://static.vecteezy.com/system/resources/previews/002/928/565/large_2x/close-up-businessman-using-his-mobile-phone-or-tablet-outdoor-isolated-on-white-background-free-photo.jpg "Header")]
+![Header](https://static.vecteezy.com/system/resources/previews/002/928/565/large_2x/close-up-businessman-using-his-mobile-phone-or-tablet-outdoor-isolated-on-white-background-free-photo.jpg "Header")
 
 ## Hi friends, 👋 I am Alexandros. 
 
