@@ -21,6 +21,7 @@
 ![](https://img.shields.io/badge/Tools-SciPy-informational?style=flat&logo=SciPy&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Flask-informational?style=flat&logo=Flask&logoColor=white&color=2bbc8a)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RosiNantis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I’m currently working on 
