@@ -2,11 +2,11 @@
 
 # Hi friends, 👋 I am Alexandros. 
 
-### I am from [Greece](https://www.greecehighdefinition.com/blog/2019/2/5/oldest-olive-tree-in-the-world-located-in-crete-its-age-is-estimated-over-3000-years-old), based in Berlin. I am a Data Scientist with a Ph.D. in Physics. I am passionate with coding. My wish is to contribute to the transition towards a more sustainable and green future using my scientific expertise and AI as a tool towards this direction.
+#### I am from [Greece](https://www.greecehighdefinition.com/blog/2019/2/5/oldest-olive-tree-in-the-world-located-in-crete-its-age-is-estimated-over-3000-years-old), based in Berlin. I am a Data Scientist with a Ph.D. in Physics. I am passionate with coding. My wish is to contribute to the transition towards a more sustainable and green future using my scientific expertise and AI as a tool towards this direction.
 
-### For more informations about me check out my [LinkedIn](www.linkedin.com/in/alexandros-samartzis) page.
+#### For more informations about me check out my [LinkedIn](www.linkedin.com/in/alexandros-samartzis) page.
 
-## 🔧 Technologies & Tools
+#### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
