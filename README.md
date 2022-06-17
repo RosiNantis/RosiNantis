@@ -1,5 +1,5 @@
-<!-- ![Header](https://static.vecteezy.com/system/resources/previews/002/928/565/large_2x/close-up-businessman-using-his-mobile-phone-or-tablet-outdoor-isolated-on-white-background-free-photo.jpg "Header") -->
-![Header](https://github.com/RosiNantis/RosiNantis/blob/main/J4o.gif "Header")
+![Header](https://static.vecteezy.com/system/resources/previews/002/928/565/large_2x/close-up-businessman-using-his-mobile-phone-or-tablet-outdoor-isolated-on-white-background-free-photo.jpg "Header")
+
 
 
 # Hi friends, 👋 I am Alexandros. 
@@ -26,4 +26,4 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RosiNantis&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-
+![Footer](https://github.com/RosiNantis/RosiNantis/blob/main/J4o.gif "Footer")
